@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-management-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/project-management-app/static/js/main.9c83b20e.chunk.js",
+    "main.js.map": "/project-management-app/static/js/main.9c83b20e.chunk.js.map",
+    "runtime~main.js": "/project-management-app/static/js/runtime~main.c1c7ac6d.js",
+    "runtime~main.js.map": "/project-management-app/static/js/runtime~main.c1c7ac6d.js.map",
+    "static/js/2.0912aeeb.chunk.js": "/project-management-app/static/js/2.0912aeeb.chunk.js",
+    "static/js/2.0912aeeb.chunk.js.map": "/project-management-app/static/js/2.0912aeeb.chunk.js.map",
+    "index.html": "/project-management-app/index.html",
+    "precache-manifest.c4a311b2d637ad01bf4ae6c2151fdc81.js": "/project-management-app/precache-manifest.c4a311b2d637ad01bf4ae6c2151fdc81.js",
+    "service-worker.js": "/project-management-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/project-management-app/static/css/main.34de6062.chunk.css.map"
+  }
+}
